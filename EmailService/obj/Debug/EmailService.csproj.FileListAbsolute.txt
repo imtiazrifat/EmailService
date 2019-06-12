@@ -1,0 +1,6 @@
+D:\dev.rifat\R&D\EmailService\EmailService\bin\Debug\EmailService.exe.config
+D:\dev.rifat\R&D\EmailService\EmailService\bin\Debug\EmailService.exe
+D:\dev.rifat\R&D\EmailService\EmailService\bin\Debug\EmailService.pdb
+D:\dev.rifat\R&D\EmailService\EmailService\obj\Debug\EmailService.csprojResolveAssemblyReference.cache
+D:\dev.rifat\R&D\EmailService\EmailService\obj\Debug\EmailService.exe
+D:\dev.rifat\R&D\EmailService\EmailService\obj\Debug\EmailService.pdb
